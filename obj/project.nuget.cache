@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sINt5sGLs4A5alsRKt1UkqKzfMt/dC83PuRh6kqk8hH83Dh8vGSTy9YiInbGqEjM+9mI9mga/GXRZgU8rpLOOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hitab\\Workplace\\FSharp-Practice\\FSharp-Practice.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hitab\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
